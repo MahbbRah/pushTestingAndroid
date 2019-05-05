@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "874421273888",
+    "firebase_url": "https://doctorachen-bf6e9.firebaseio.com",
+    "project_id": "doctorachen-bf6e9",
+    "storage_bucket": "doctorachen-bf6e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874421273888:android:3c806d23747fc78d",
+        "android_client_info": {
+          "package_name": "com.doctor_achen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874421273888-gpqm78p18kdte2mvat9intm85fq6di3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMJT1yzhnmjcANEszAhWOFQO6Xuyjo-lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874421273888-gpqm78p18kdte2mvat9intm85fq6di3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874421273888:android:2f74d19e76ee608f",
+        "android_client_info": {
+          "package_name": "com.doctor_achen_patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874421273888-gpqm78p18kdte2mvat9intm85fq6di3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMJT1yzhnmjcANEszAhWOFQO6Xuyjo-lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874421273888-gpqm78p18kdte2mvat9intm85fq6di3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874421273888:android:a21b4413f587b122",
+        "android_client_info": {
+          "package_name": "com.pushtestingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874421273888-gpqm78p18kdte2mvat9intm85fq6di3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMJT1yzhnmjcANEszAhWOFQO6Xuyjo-lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874421273888-gpqm78p18kdte2mvat9intm85fq6di3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

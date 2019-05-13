@@ -3,6 +3,10 @@ package com.doctor_achen;
 import android.app.Application;
 
 import com.facebook.react.ReactApplication;
+import com.RNFetchBlob.RNFetchBlobPackage;
+import com.oblador.vectoricons.VectorIconsPackage;
+import com.zxcpoiu.incallmanager.InCallManagerPackage;
+import com.imagepicker.ImagePickerPackage;
 import com.christopherdro.htmltopdf.RNHTMLtoPDFPackage;
 import io.underscope.react.fbak.RNAccountKitPackage;
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
@@ -10,6 +14,9 @@ import io.invertase.firebase.RNFirebasePackage;
 import io.invertase.firebase.notifications.RNFirebaseNotificationsPackage;
 import io.invertase.firebase.messaging.RNFirebaseMessagingPackage;
 import com.reactnativecommunity.asyncstorage.AsyncStoragePackage;
+import org.pgsqlite.SQLitePluginPackage;
+import com.oney.WebRTCModule.WebRTCModulePackage;
+
 import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
@@ -30,6 +37,12 @@ public class MainApplication extends Application implements ReactApplication {
     protected List<ReactPackage> getPackages() {
       return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
+          new RNFetchBlobPackage(),
+          new VectorIconsPackage(),
+          new WebRTCModulePackage(),
+          new InCallManagerPackage(), 
+          new ImagePickerPackage(), 
+          new SQLitePluginPackage(),  
           new RNHTMLtoPDFPackage(),
           new RNAccountKitPackage(),
           new RNGestureHandlerPackage(),

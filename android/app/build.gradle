@@ -8,6 +8,8 @@ project.ext.react = [
 ]
 
 apply from: "../../node_modules/react-native/react.gradle"
+apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+
 
 /**
  * Set this to true to create two separate APKs instead of one:
@@ -84,6 +86,12 @@ android {
 }
 
 dependencies {
+    implementation project(':rn-fetch-blob')
+    implementation project(':WebRTCModule')
+    implementation project(':react-native-vector-icons')
+    implementation project(':react-native-sqlite-storage')
+    implementation project(':react-native-incall-manager')
+    implementation project(':react-native-image-picker')
     implementation 'com.android.support:multidex:1.0.3'
     implementation project(':react-native-html-to-pdf')
     implementation project(':react-native-facebook-account-kit')

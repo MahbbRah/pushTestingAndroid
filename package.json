@@ -19,7 +19,21 @@
     "react-native-firebase": "^5.3.1",
     "react-native-gesture-handler": "^1.2.1",
     "react-native-html-to-pdf": "^0.7.0",
-    "react-navigation": "^3.9.1"
+    "react-native-image-picker": "^0.28.1",
+    "react-native-incall-manager": "^3.2.3",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-modal": "^11.0.0",
+    "react-native-multiple-select": "^0.5.0",
+    "react-native-popup-menu": "^0.15.6",
+    "react-native-responsive-screen": "^1.2.2",
+    "react-native-search-filter": "^0.1.4",
+    "react-native-sqlite-storage": "^3.3.10",
+    "react-native-tab-view": "^2.2.0",
+    "react-native-vector-icons": "^6.4.2",
+    "react-native-webrtc": "^1.69.1",
+    "react-navigation": "^3.9.1",
+    "rn-fetch-blob": "^0.10.15",
+    "socket.io-client": "^2.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",

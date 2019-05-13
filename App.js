@@ -1,7 +1,11 @@
 import React, { Component } from 'react';
-import { Platform, StyleSheet, Text, View, Alert } from 'react-native';
+import { Platform, StyleSheet, Text, View, TouchableHighlight } from 'react-native';
 import AsyncStorage from '@react-native-community/async-storage';
 import firebase from 'react-native-firebase';
+import { createStackNavigator, createAppContainer } from "react-navigation";
+
+import SecondPageApp from './SecondPageApp';
+
 
 
 const instructions = Platform.select({
@@ -11,7 +15,7 @@ const instructions = Platform.select({
         'Shake or press menu button for dev menu',
 });
 
-export default class App extends Component {
+class App extends Component {
 
 
     async componentDidMount() {
@@ -45,36 +49,8 @@ export default class App extends Component {
     }
 
     createNotificationListeners = async () => {
-        /*
-        * Triggered when a particular notification has been received in foreground
-        * */
-        // firebase.notifications().onNotification((notification) => {
-        //     const { title, body } = notification;
-        //     // this.showAlert(title, body);
-        //     console.log(`Notification: `,notification);
-        //     // alert("Notification pops up!")
-        // });
+        
 
-        /*
-        * If your app is in background, you can listen for when a notification is clicked / tapped / opened as follows:
-        * */
-        // firebase.notifications().onNotificationOpened((notificationOpen) => {
-        //     const { title, body } = notificationOpen.notification;
-        //     this.showAlert(title, body);
-        // });
-
-        /*
-        * If your app is closed, you can check if it was opened by a notification being clicked / tapped / opened as follows:
-        * */
-        // const notificationOpen = await firebase.notifications().getInitialNotification();
-        // if (notificationOpen) {
-
-        //     const { title, body } = notificationOpen.notification;
-        //     this.showAlert(title, body);
-        // }
-        /*
-        * Triggered for data only payload in foreground
-        * */
         firebase.messaging().onMessage((message) => {
             //process data message
             console.log(JSON.stringify(message));
@@ -88,6 +64,9 @@ export default class App extends Component {
                 <Text style={styles.welcome}>Welcome to React Native!</Text>
                 <Text style={styles.instructions}>To get started, edit App.js</Text>
                 <Text style={styles.instructions}>{instructions}</Text>
+                <TouchableHighlight onPress={() => this.props.navigation.navigate("SecondScreen")}>
+                    <Text>Go and ROck</Text>
+                </TouchableHighlight>
             </View>
         );
     }
@@ -111,6 +90,19 @@ const styles = StyleSheet.create({
         marginBottom: 5,
     },
 });
+
+const AppNavigator = createStackNavigator({
+    Home: {
+        screen: App
+    },
+    SecondScreen: {
+        screen: SecondPageApp
+    },
+}, {
+    initialRouteName: 'Home'
+});
+
+export default createAppContainer(AppNavigator);
 
 
 // import React, { Component } from 'react';
@@ -163,3 +155,5 @@ const styles = StyleSheet.create({
 //         backgroundColor: '#F5FCFF',
 //     },
 // });
+
+

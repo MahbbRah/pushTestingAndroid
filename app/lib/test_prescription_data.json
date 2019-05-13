@@ -1,0 +1,3039 @@
+[
+    {
+        "testType": "Investigation",
+        "testData": [
+            {
+                "testName": "Investigation",
+                "testItems": [
+                    {
+                        "itemName": "Plasma Glucose Fasting",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Random blood suger",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "2hrs after 75g Glucose/ Breakfast",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Bilirubin (T)",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "HbA1c",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Bilirubin (T)",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Bilirubin (D)",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. ALT (SGPT)",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. AST (SGOT)",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Alk. Phos.",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Total Protein",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Albumin",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": " GT",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Alb/Glob Ratio",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Lipid Profile",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Cholestrol",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. HDL",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Triglyceride (TG)",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. CK",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. CK (MB)",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. LDH",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Troponin-I",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Electrolytes",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Urea/BUN",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Creatinine",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Inorganic Phos.",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Uric acid.",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Calcium",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Iron",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Iron Binding Capacity (TIBC)",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Ferritin",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Vita B12",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Folic Acid",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Albumin (Micro) 24 hrs Urine",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "ACR 24 hrs",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Spot Urinary protein",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Protein creatinine ratio",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Creatinine clearance (CCr)",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "24 hrs UTP",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "24 hrs Urine Calcium",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "24 hrs Urine Phosphate",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "24 hrs Urine Uric acid",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "24 hrs Urine Sodium",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "24 hrs Urine Potassium",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "24 hrs UTP Osmotarily: Plasma/ Urinary",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Alpha feto protein",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "CA-19-9",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Total PSA",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "CA 125",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Free PSA ",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "CA 15-3",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "CEA",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Insuline/ IR Index ",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Lipase",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Homocystein ",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Aldolase ",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Anti CCP ",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Glucose",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Acid Phos.",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Protein",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "S. Amylase",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "CBC",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "BT & CT",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Hb, TC, DC & ESR",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "HCT/ PCV",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "CE ",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "MCV ",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "PC ",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "MCH",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "MP",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "MCHC",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "PBF",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "STOOL R/E",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Occult Blood Test",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Floatation Fecal fat",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Reducing Substance",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "AFP",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "CA-12.3 (breast)",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "CA-125",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Ca-19-9",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "CEA",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Β 2 Microglobulin",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "PSA ",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Total β-hcG ",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "URINE R/E with full chemical",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "L. Stain",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "URINE Bence Jones Protein",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "URINE Z.N. Stain",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "URINE Bile Salt",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "URINE Sp. Gravity",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "URINE Urobilinogen/ Bilirubin",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "URINE Aminoaciduria",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "URINE Protein/ Ketone body",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "URINE Phase Contrast Glucose/PH",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Chest PA view",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Chest AP view",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Skull",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "PNS OM view",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "KUB region",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Plain abdomen",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Wrist b/v (a).Right (b).Left",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Hand b/v (a).Right (b).Left",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Forearm b/v (a).Right (b).Left",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Elbow b/v (a).Right (b).Left",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Shoulder b/v (a).Right (b).Left",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Hip b/v (a).Right (b).Left",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Cervical spine b/v",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Dorsal spine b/v",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Lumbosacral spine b/v",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Knee b/v (a).Right (b).Left",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Ankle (a).Right (b).Left",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Foot b/v (a).Right (b).Left",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Sacral spine b/v",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Head",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Chest",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Abdomen",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Hepatobiliary system",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Brain",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Cervical Spine",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Dorsal spine",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Dorsolumber spine",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Whole abdomen",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "KUB region",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Inguinal region",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Testes and scrotum",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Trans rectal",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    },
+                    {
+                        "itemName": "Trans vaginal",
+                        "timestamp": "2019-02-18T07:51:55.842Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "testType": "Advice",
+        "testData": [
+            {
+                "testName": "Advice",
+                "testItems": [
+                    {
+                        "itemName": "Take regular medication ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Drink plenty of water",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Complete full dose of medication",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Do not smoke or do drugs ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Avoid sun exposure ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sponge with tepid water",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Do not skip meals",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Eat vegetables, fruits and fibre containing food",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Maintain standard body weight and do physical exercise",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Avoid sugar containing food or junk food",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Get enough sleep",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Monitor blood sugar and BP",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Get scheduled vaccinations",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Limit fluid intake ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Get enough rest ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Apply cream/ointment accordingly",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Use inhaler/nasal spray/insulin accordingly/correctly ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Gurgle with tepid water after use of steroid containing inhaler.",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Don't use medication without consulting with your physicians",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Avoid allergens ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Take glass of water/saline after each loose stool",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Avoid sudden stressful activity like weight lifting, exercise ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Keep your feet clean and dry",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": " keep your body weight at a healthy level to avoid putting additional stress on joints",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Do regular weight-bearing exercise (eg, jogging, walking, dancing).",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Use high commode ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Do not use pain killer or steroid medication without physician's advice",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Change posture in every two hours",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Avoid very large meals",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sit upright for about an hour after eating. Try to eat a few hours before going to bed.",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Avoid tight clothing or belts around your stomach.",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Take your iron tablets with orange juice to aid absorption.",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Wear earplugs when swimming to avoid recurrence of otitis externa. ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Do not to scratch the ear or poke things such as cotton swabs inside the ear canal to stop the itching.",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Get your partner investigated/vaccinated ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Use protection against mosquito bite",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Try to avoid the known trigger factors for seizures",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Avoid sitting for long periods, and take regular breaks on long journeys.",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Apply a hot water bottle or heating pad to relieve the pain during periods",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Stop medication on any severe events",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Avoid prolonged standing ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Use spectacles all times ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Check your eyes yearly",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Avoid iron containing foods eg. Liver, red meat, egg yolk etc",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Consult with your physician in any emergency ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Go for regular physical check up and lab investigations",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Maintain personal hygiene ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Do not go for unprotected sex ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Maintain oral hygiene ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Exclusively Breastfeed your baby for 6 months ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Take break while working in front of computers ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Give extra amount of food during pregnancy ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Avoid overcrowded place ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Maintain menstrual hygiene ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Eat citrus fruits",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "testType": "Pre Existing Illness",
+        "testData": [
+            {
+                "testName": "Pre Existing Illness",
+                "testItems": [
+                    {
+                        "itemName": "CLD",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "HTN",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "CAD",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "COPD",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Br Asthma",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "DM",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "CKD",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "OTHERs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "testType": "Diagnosis",
+        "testData": [
+            {
+                "testName": "Diagnosis",
+                "testItems": []
+            }
+        ]
+    },
+    {
+        "testType": "Chief Complain",
+        "testData": [
+            {
+                "testName": "Chief Complain",
+                "testItems": [
+                    {
+                        "itemName": "Abdominal Pain ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Allergic Symptoms ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Arm Problems ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Abnormal Facial Expressions",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Abscessed Tooth Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Absence of Speech (Loss of Speech)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Acid Reflux (GERD) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Acute Sinusitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "ADHD (Inattention)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "ADHD Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Age-Related Macular Degeneration (Macular Degeneration Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Alcohol Poisoning Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Alcohol Withdrawal Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Altered Mental Status",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Alveolar Osteitis (Dry Socket Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Alzheimer's Disease Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Anal Itching",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Anaphylaxis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Anemia",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Angle-Closure Glaucoma (Glaucoma Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Angular Cheilitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Ankle Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Anxiety",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Aphasia (Loss of Speech)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Appendicitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Arm Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Arrhythmia Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Asthenopia (Eyestrain Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Asthma Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Atrial fibrillation (AFib) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Atrial Flutter Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Attention Deficit (Inattention)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Autism Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Avian Influenza (Bird Flu (Avian Influenza) Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Back Pain ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Blackouts ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bloating ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Blood in Stool ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Breast Problems ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bruising and Bleeding Tendencies ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Burning sensation during micturition",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Burns ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bad Breath",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bad Taste in the Mouth",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Basal Cell Carcinoma (Skin Cancer Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Beau's Lines",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Behavior Disorder (Unusual Behavior)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Benign Positional Vertigo Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Binge Eating Disorder Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bipolar Disorder Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bird Flu (Avian Influenza) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bladder Infection Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bladder Spasms",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bleeding Gums",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Blepharitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Blisters",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Blood Clot in the Lung (Pulmonary Embolism Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Blood Clot Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Blood in Semen",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Blood In Urine",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bloody Nose",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bloody Sputum",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Blunted Affect (Flat Affect)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Blurred Vision",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bone Loss (Osteopenia)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bowel Incontinence (Fecal Incontinence)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Brain Aneurysm Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Brain Trauma (Concussion Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Brain Tumor Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Breast Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Breast Discharge",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Breast Lumps",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Breast Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Breast Swelling (Swollen Breast)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Brittle Nails",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bronchitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bumps on Skin",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Burning Mouth Syndrome Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Burning Urination",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Bursitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Buttock Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Chest Pain ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Confusion ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Constipation ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Convulsions (Seizures) ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cough ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cuts and Scrapes ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cancer, Throat (Throat Cancer Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Carbon Monoxide Poisoning Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Carpal Tunnel Syndrome Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cat Scratch Disease Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Catatonia (Catatonic Behavior)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cellulitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cervical Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Chalazion Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Changes in Skin of the Breast",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Chapped Lips (Cheilitis)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Chest Tightness (Tightness in Chest)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Chills",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Chlamydia Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Chronic Fatigue Syndrome Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Chronic Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Chronic Sore Throat Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cloudy Urine",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cobalamin Deficiency (Vitamin B12 Deficiency Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Coccydynia",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cold",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cold Feet",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cold Fingers",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cold Hands",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Colitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Colon Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Concussion Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Conjunctival Granuloma (Chalazion Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Contact Dermatitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "COPD Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Creaking Joints (Joint Cracking)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Crohn's Disease Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cyanosis/Turning Blue",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Cystic Fibrosis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Depression",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Diaper Problems",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Diarrhea",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Difficulty Swallowing ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dizziness ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dark Circles Under the Eyes",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dark Urine",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Decreased Appetite",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Decreased Bone Density (Osteopenia)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dehydration Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Delirium",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Delusions",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dengue Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Depigmentation of Skin",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Detached Retina (Retinal Detachment Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Detrusor Contraction (Bladder Spasms)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Diabetes Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Diabetic Ketoacidosis (DKA) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Difficulty Concentrating",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Difficulty Urinating",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Difficulty With Speech",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dilated Pupils (Mydriasis)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dimpled Breast (Peau d'Orange)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Diogenes Syndrome (Self-Neglect)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Discharge From Penis (Penile Discharge)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Distended Stomach (Abdominal Distention)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Distractibility",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Diverticulitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Double Vision",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Drainage of Pus",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Drooling",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dry AMD (Macular Degeneration Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dry Eye",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dry Mouth",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dry Skin",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dry Socket Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dysarthria",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dyspepsia",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Dysphagia",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Ear Problems ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Eye Problems ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "E. coli 0157:H7 (Escherichia coli 0157:H7)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "EAEC (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "EAggEC (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Earache",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Easy Bruising",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Ebola Virus Disease Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Echolalia",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Echologia (Echolalia)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Echophrasia (Echolalia)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "EHEC (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "EIEC (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Elbow Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Elevated Blood Sugar (High Blood Sugar Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Emotional Disorder (Inability to Regulate Emotions)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Endocarditis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Endometrial Cancer (Uterine (Endometrial) Cancer Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Endometriosis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Enlarged Heart",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Enteroadherent E. coli (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Enteroaggregative E. coli (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Enterohemorrhagic E. coli (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Enteroinvasive E. coli (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Enteropathogenic E. coli (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Enterotoxigenic E. coli (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Enterovirus D68 (Non-Polio Enterovirus Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Enthesitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "EPEC (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "ETEC (E. coli 0157:H7 (Escherichia coli 0157:H7))",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Euphoria",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "EV-D68 (Non-Polio Enterovirus Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Excessive Sweating",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Excessive Yawning (Yawning)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "External Otitis (Swimmer's Ear (Otitis Externa) Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Eye Discharge",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Eye Floaters",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Eye Herpes (Ocular Herpes Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Eye Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Eye Twitch",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Eyestrain Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Facial Pain ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Fever ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Foot or Ankle Pain ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Frostbite ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Fainting",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Fatigue and Tiredness",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Fecal Incontinence",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Fever, Zika (Zika Virus Infection Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Fibromyalgia Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Finger Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Flaky Scalp",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Flat Affect",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Flu",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Fluctuating Mood (Mood Swings)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Foot Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Foreign Body in the Eye Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Frequent Urination",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Gallbladder Attack Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Gas",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Gastritis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Gastroenteritis (Stomach Flu) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Generalized Anxiety Disorder Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Genital Warts Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Giardiasis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Gingivitis (Gum Disease Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Glaucoma Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Gout Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Groin Pain ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Gum Disease Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Gum Pain (Pericoronitis Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hair Problems ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hand problem",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Head Injury ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Headache ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Heart Pounding ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Heartburn",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Heat Stroke ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hiccough ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hives",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hoarseness ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hair Loss",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hairy Tongue",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hallucinations",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hand Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hand, Foot, and Mouth Disease Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hearing Loss",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Heart Attack in Men Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Heart Attack in Women Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Heart Disease Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Heart Failure Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Heel Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Helicobacter pylori (H. pylori) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hemolysis",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hemolytic Anemia (Hemolysis)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hepatitis C (HCV) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Herpes Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Herpes Viral Infections of the Eye (Ocular Herpes Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hiatal Hernia Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hiccups",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "High Blood Pressure Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "High Blood Sugar Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hip Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "HIV Infection Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hoarseness",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hot Flashes",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hyperactivity",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hyperthermia Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hyperthyroidism Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hyperventilation",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hypocalcemia Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hypoglycemia Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hypopituitarism Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hypothermia Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Hypothyroidism Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Injury ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Impotence",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Impulsivity",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Inability to Regulate Emotions",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Inattention",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Incontinence, Urine",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Increased Appetite",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Infectious Mononucleosis (Mono) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Infertility",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Inflammation of the Cornea (Keratitis Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Inflammation of the Larynx (Laryngitis)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Inflammation of the Sclera (Scleritis Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Inflammatory Bowel Disease Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Insomnia",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Insulin Resistance Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Interstitial Cystitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Invaginated Nipple (Inverted Nipple)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Inverted Nipple",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Irritable Bowel Syndrome (IBS) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Itch",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Jaundice",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Jaw Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Joint Cracking",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Joint Deformity",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Joint Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Joint Popping (Joint Cracking)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Joint Redness",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Joint Stiffness",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Joint Warmth",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Kawasaki Disease Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Keratitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Kidney Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Kidney Infection Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Kidney Stone Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Knee Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Knee Swelling (Swollen Knee)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Koilonychia",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Loss of Consciousness ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Loss of Movement",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Labile Mood (Inability to Regulate Emotions)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Lack of Facial Expressions",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Lactase Deficiency (Lactose Intolerance Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Lactose Intolerance Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Laryngitis",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Leg Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Leg Sores",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Leg Swelling",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Leukemia Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Limping",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Liver Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Loss of Appetite",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Loss of Speech",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Loss of Taste Sensation",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Loss of Temperature Sensation",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Low Blood Pressure Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Low Blood Sugar (Hypoglycemia Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Low Libido",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Low Testosterone (Low T)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Low Urine Output",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Lump or Mass on Gums",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Lung Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Lupus Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Lyme Disease Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Lymph Node Swelling (Swollen Lymph Nodes)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Lymphedema Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Menstrual Cramps ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Muscle Weakness ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Macular Degeneration Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Malnutrition Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Mania Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Mastitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Measles (Rubeola) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Meibomian Cyst (Chalazion Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Melanoma Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Memory Loss",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Meniere's Disease Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Meningitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Menopause Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Metallic Taste in the Mouth",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Middle Ear Infection Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Migraine Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Miscarriage Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Missed Menstrual Period",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Mood Swings",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Morning Sickness Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Motor Tics (Tic)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Mouth Sores",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "MRSA Infection Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Multiple Myeloma Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Multiple Sclerosis (MS) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Mumps Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Muscle Cramps",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Muscle Pain (Myalgia)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Muscle Spasticity (Spasticity)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Mutism (Loss of Speech)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nail Problems",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nausea and Vomiting",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Neck Problems ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Numbness",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nail Clubbing",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nail Discoloration",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nail Fungus (Onychomycosis) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nail Pitting",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nail Separation",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nasal Congestion",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nausea",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Neck Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Neglecting Oneself (Self-Neglect)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Neonatal Jaundice",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nipple Inversion (Inverted Nipple)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nipple Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Nipple Retraction (Inverted Nipple)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Non-Polio Enterovirus Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Numbness Fingers",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Numbness or Tingling Sensation in the Tongue",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Numbness Toes",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Ocular Herpes Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Onychorrhexis (Vertical Ridges on the Fingernails)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Open-Angle Glaucoma (Glaucoma Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Osteopenia",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Osteoporosis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Ovarian Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Overactive Bladder (Bladder Spasms)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Overactive Bladder (OAB) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Poisoning ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Poor Appetite ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pain in the Penis (Penile Pain)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Painful Gums",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Painful Intercourse",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pale Skin",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Palpitations",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pancreatic Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pancreatitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Panic Attack Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Paralysis",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Paraneoplastic Syndrome Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Paranoia",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Peau d'Orange",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Peeling Skin",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pelvic Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Penile Discharge",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Penile Itching",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Penile Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pericoronitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Periodontitis (Gum Disease Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Peripheral Neuropathy",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Phlebitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Photophobia",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pink Eye",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pleurisy",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "PMS (Premenstrual Syndrome) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pneumonia Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Polycystic Kidney Disease (PKD) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Poor Hygiene",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Poor Nutrition (Malnutrition Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Postnasal Drip Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Postpartum Depression Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pregnancy Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Prostate Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Proteinuria (Protein in the Urine)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pruritus Ani (Anal Itching)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Psoriasis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Psoriatic Arthritis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Ptosis",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Pulmonary Embolism Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Ruuny nose",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Rash",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Rectal Bleeding",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Rectal Incontinence (Fecal Incontinence)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Rectal Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Red Gums (Pericoronitis Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Red Spots on the Skin",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Red Streaks on the Skin",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Restless Leg Syndrome",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Retinal Detachment Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Rheumatoid Arthritis (RA) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Ringing in Ears",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Roseola Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sexual Problems ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sleep Problems",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sneezing",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Suicidal Thoughts",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Scarlet Fever Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Schizophrenia Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Scleritis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Seizures",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Self-Neglect",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Shaking Hands (Hand Tremors)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Shingles Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Shortness of Breath",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Shoulder Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sinus Infection (Sinusitis) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Skin Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sleep Apnea Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Small Intestine Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sneezing",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Snoring",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sore Throat",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sore Tongue",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Spasticity",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Spoon-Shaped Fingernails (Koilonychia)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Squamous Cell Cancer (Skin Cancer Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Squamous Cell Carcinoma (Skin Cancer Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sternutation (Sneezing)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Stiff Neck",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Stomach Cramps",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Stomach Ulcer (Peptic Ulcer) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Stool Color & Texture Changes",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Strange Behavior (Unusual Behavior)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Strep Throat Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Stroke Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Sty Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Subconjunctival Hemorrhage Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Suicide",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swimmer's Ear (Otitis Externa) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swine Flu Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swollen Ankles and/or Swollen Feet",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swollen Breast",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swollen Eyes",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swollen Gums (Pericoronitis Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swollen Joints",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swollen Knee",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swollen Lip",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swollen Lymph Nodes",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swollen Testicles",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swollen Tongue",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Swollen Tonsils",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Testicle Problems ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Trouble Talking ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Tachycardia",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Testicular Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Testicular Swelling (Swollen Testicles)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Thirst",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Throat Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Thrush (Oral Candidiasis) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Tic",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Tightness in Chest",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Tingling in Hands and Feet",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Toe Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Toothache",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Traumatic Brain Injury (Concussion Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Tremor",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Tunnel Vision",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Urine Problems ",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Ulcerative Colitis Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Undernutrition (Malnutrition Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Unsteady Gait",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Unusual Behavior",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Upper Respiratory Infection Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Urge Incontinence (Bladder Spasms)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Urinary Retention",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Urinary Tract Infection (UTI) Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Urinary Urgency",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Urine Odor",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Uterine (Endometrial) Cancer Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vaginal Bleeding",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vaginal Discharge",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vaginal Dryness",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vaginal Itching",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vaginal Odor",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vaginal Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vaginal Yeast Infection Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vertical Ridges on the Fingernails",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vertigo",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vision Loss",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vitamin B12 Deficiency Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vocal Outbursts",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vocal Tics (Tic)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vomiting",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Vomiting Blood",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Watery Eye",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Weakness",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Weight Gain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Weight Loss",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "West Nile Virus Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Wet AMD (Macular Degeneration Symptoms and Signs)",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Wheezing",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "White Tongue",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Wrist problem",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Wrist Pain",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Yawning",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Yellow Skin",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    },
+                    {
+                        "itemName": "Zika Virus Infection Symptoms and Signs",
+                        "timestamp": "2019-02-18T07:51:55.843Z"
+                    }
+                ]
+            }
+        ]
+    }
+]

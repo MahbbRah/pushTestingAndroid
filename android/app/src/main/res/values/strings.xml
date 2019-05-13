@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">pushTestingApp</string>
+    <string name="app_name">doctor_achen</string>
 
 
     <string name="title_activity_example">ExampleActivity</string>
@@ -8,4 +8,6 @@
     <string name="trigger_event">Trigger event</string>
     <string name="reverse_text_activity_title">Reversed text!</string>
     <string name="menuitem_reverse_text_label">Reverse text</string>
+    <string name="fb_app_id">921844898203331</string>
+    <string name="ak_client_token">2df2d402e6d918fe2dfc5d1ae774f53d</string>
 </resources>

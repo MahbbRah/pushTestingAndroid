@@ -1,5 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.pushtestingapp">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+  package="com.doctor_achen">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
@@ -8,6 +8,11 @@
 
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
     <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+
+    <!-- React native account kit! -->
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <application
       android:name=".MainApplication"
@@ -52,6 +57,16 @@
       </receiver>
 
       <service android:name="io.invertase.firebase.notifications.RNFirebaseBackgroundNotificationActionsService"  />
+
+      <meta-data
+        android:name="com.facebook.sdk.ApplicationId"
+        android:value="@string/fb_app_id" />
+      <meta-data
+          android:name="com.facebook.accountkit.ApplicationName"
+          android:value="@string/app_name" />
+      <meta-data
+          android:name="com.facebook.accountkit.ClientToken"
+          android:value="@string/ak_client_token" />
       
     </application>
 

@@ -1,12 +1,9 @@
 import React from 'react';
 import { View, TouchableHighlight, Text, StyleSheet, Image} from 'react-native';
+import InCallManager from 'react-native-incall-manager';
 
 import CONST from '../../lib/constants';
 import API from '../../lib/api';
-
-// const { height, width } = Dimensions.get('window');
-
-var soundObject;
 
 export default class AcceptPatientRequestPush extends React.Component {
     constructor(props) {
@@ -17,16 +14,12 @@ export default class AcceptPatientRequestPush extends React.Component {
         this.API = new API();
     }
 
-    async componentDidMount() {
-        
-    }
-
     handleAccept = () => {
 
 
         //remove this screen from stack
         this.props.navigation.pop();
-
+        this.stopCallSound();
         this.props.navigation.navigate("PatientProfile");
     }
 
@@ -34,8 +27,13 @@ export default class AcceptPatientRequestPush extends React.Component {
 
         //remove this screen from stack.
         this.props.navigation.pop();
+        this.stopCallSound()
 
     }
+
+    stopCallSound = () => {
+        InCallManager.stopRingtone();
+    } 
 
 
     render() {

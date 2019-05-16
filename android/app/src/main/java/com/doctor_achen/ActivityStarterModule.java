@@ -6,6 +6,11 @@ import android.content.Intent;
 import android.app.ActivityManager;
 import android.app.KeyguardManager;
 
+import android.support.v4.app.NotificationManagerCompat;
+
+// import android.app.NotificationChannel;
+// import android.os.Build;
+
 import android.content.Context;
 import android.os.Bundle;
 import android.os.PowerManager;
@@ -74,19 +79,6 @@ class ActivityStarterModule extends ReactContextBaseJavaModule {
         return constants;
     }
 
-
-    // private void initWakeLock(String ) {
-    //     PowerManager pwm = (PowerManager) reactContext.getSystemService(Context.POWER_SERVICE);
-    //     wakeLock = pwm.newWakeLock(PowerManager.FULL_WAKE_LOCK, className);
-    //     wakeLock.acquire();
-    //     wakeLock.release();
-        
-    //     KeyguardManager keyguardManager = (KeyguardManager) reactContext.getSystemService(Context.KEYGUARD_SERVICE);
-    //     lock = keyguardManager.newKeyguardLock(className);
-    //     lock.disableKeyguard();
-    // }
-
-
     @ReactMethod
     public void invokeApp(ReadableMap params) {
 
@@ -103,9 +95,12 @@ class ActivityStarterModule extends ReactContextBaseJavaModule {
             String className = launchIntent.getComponent().getClassName();
 
             PowerManager pwm = (PowerManager) reactContext.getSystemService(Context.POWER_SERVICE);
-            wakeLock = pwm.newWakeLock(PowerManager.FULL_WAKE_LOCK, className);
+            wakeLock = pwm.newWakeLock((PowerManager.SCREEN_BRIGHT_WAKE_LOCK | PowerManager.FULL_WAKE_LOCK | PowerManager.ACQUIRE_CAUSES_WAKEUP), className);
             wakeLock.acquire();
             wakeLock.release();
+
+            Log.d(LOG_TAG, "Trying to waking up from Lock screen!");
+
             
             KeyguardManager keyguardManager = (KeyguardManager) reactContext.getSystemService(Context.KEYGUARD_SERVICE);
             lock = keyguardManager.newKeyguardLock(className);
@@ -113,6 +108,9 @@ class ActivityStarterModule extends ReactContextBaseJavaModule {
 
             Class<?> activityClass = Class.forName(className);
             Intent activityIntent = new Intent(reactContext, activityClass);
+
+            //was getting an error and asking to set this flag;;
+            activityIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
 
             activityIntent.addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP);
 
@@ -135,15 +133,35 @@ class ActivityStarterModule extends ReactContextBaseJavaModule {
         }
     }
 
+    /* You may can use this code later on to make notification channels Manually */
+    // @ReactMethod
+    // void createNotificationChannel(String channelName, String channelDetail, String CHANNEL_ID) {
+        
+    //     // Create the NotificationChannel, but only on API 26+ because
+    //     // the NotificationChannel class is new and not in the support library
+    //     if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+    //         CharSequence name = getString(channelName);
+    //         String description = getString(channelDetail);
+    //         int importance = NotificationManager.IMPORTANCE_DEFAULT;
+    //         NotificationChannel channel = new NotificationChannel(CHANNEL_ID, name, importance);
+    //         channel.setDescription(description);
+    //         // Register the channel with the system; you can't change the importance
+    //         // or other notification behaviors after this
+    //         NotificationManager notificationManager = getSystemService(NotificationManager.class);
+    //         notificationManager.createNotificationChannel(channel);
+    //     }
+
+    // }
+
     @ReactMethod
         void getActivityNameAsPromise(@Nonnull Promise promise) {
-        Activity activity = getCurrentActivity();
-        if (activity != null) {
-            promise.resolve(activity.getClass().getSimpleName());
-        } else {
-            promise.reject("NO_ACTIVITY", "No current activity");
+            Activity activity = getCurrentActivity();
+            if (activity != null) {
+                promise.resolve(activity.getClass().getSimpleName());
+            } else {
+                promise.reject("NO_ACTIVITY", "No current activity");
+            }
         }
-    }
 
     @ReactMethod
     void callJavaScript() {

@@ -109,6 +109,11 @@ dependencies {
     implementation "com.google.firebase:firebase-messaging:17.5.0"
     // implementation "com.google.firebase:firebase-notifications"
     implementation 'me.leolin:ShortcutBadger:1.1.21@aar' // <-- Add this line if you wish to use badge on Android
+
+    implementation 'com.facebook.android:account-kit-sdk:4.37.0'
+    implementation "com.google.android.gms:play-services-auth-api-phone:16.0.0"
+    implementation 'com.google.android.gms:play-services-auth:16.0.1'
+    implementation 'com.google.android.gms:play-services-base:16.1.0'
 }
 
 // puts all compile dependencies into folder libs for BUCK to use
@@ -116,5 +121,6 @@ task copyDownloadableDepsToLibs(type: Copy) {
     from configurations.compile
     into 'libs'
 }
+
 
 apply plugin: 'com.google.gms.google-services'

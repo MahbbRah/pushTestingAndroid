@@ -5,6 +5,15 @@
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+     <!-- web-rtc permissions and so on stuffs! -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus"/>
+
 
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
     <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
@@ -57,6 +66,11 @@
       </receiver>
 
       <service android:name="io.invertase.firebase.notifications.RNFirebaseBackgroundNotificationActionsService"  />
+
+      <activity
+      tools:replace="android:theme"
+      android:name="com.facebook.accountkit.ui.AccountKitActivity"
+      android:theme="@style/LoginThemeYellow" />
 
       <meta-data
         android:name="com.facebook.sdk.ApplicationId"

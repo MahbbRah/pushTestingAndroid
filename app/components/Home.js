@@ -2,8 +2,7 @@ import React from 'react';
 import { StyleSheet, Text, View, Image, TouchableOpacity, TouchableHighlight } from 'react-native';
 import { widthPercentageToDP as percentageWidth, heightPercentageToDP as percentageHeight } from 'react-native-responsive-screen';
 
-// import PushNotification from 'react-native-push-notification';
-
+import firebase from 'react-native-firebase';
 
 import CONST from '../lib/constants';
 import API from '../lib/api';
@@ -37,6 +36,7 @@ export default class Home extends React.Component{
 
         const pushToken = await this.API._retrieveData('pushToken');
 
+        console.log(`Push Token: `, pushToken);
         if (pushToken !== '') {
             this.setState({
                 pushToken
@@ -69,6 +69,7 @@ export default class Home extends React.Component{
         }
 
         // this.EnablePushToken();
+        this.createNotificationListeners();
 
     }
 
@@ -77,74 +78,77 @@ export default class Home extends React.Component{
         console.log(`Check to see if back button Pressed: `);
     }
 
-    // EnablePushToken = () => {
-    //     var newThis = this;
-
-    //     if (this.state.pushToken !== '') {
-
-    //         PushNotification.configure({
-
-    //             // (optional) Called when Token is generated (iOS and Android)
-    //             onRegister: async (token) =>  {
-    //                 // console.log('TOKEN:', token);
-    //                 await newThis.API._storeData('pushToken', token.token);
-    //             },
-
-    //             // (required) Called when a remote or local notification is opened or received
-    //             onNotification: (notification) => {
-    //                 console.log('NOTIFICATION:', notification);
-
-    //                 if (notification.pushType === 'appointment_queue') {
-    //                     newThis.props.navigation.navigate("AcceptPatientRequestPush")
-    //                 }
-                    
-
-    //             },
-
-    //             senderID: CONST.DATA.SENDER_ID,
-
-    //             // IOS ONLY (optional): default: all - Permissions to register.
-    //             permissions: {
-    //                 alert: true,
-    //                 badge: true,
-    //                 sound: true
-    //             },
-
-    //             // Should the initial notification be popped automatically
-    //             // default: true
-    //             popInitialNotification: true,
-
-    //         });
-    //     }
+    createNotificationListeners = async () => {
 
 
-    // }
+        // const channel = new firebase.notifications.Android.Channel('test_channel', 'Test Channel', firebase.notifications.Android.Importance.Max)
+        //     .setDescription('My apps test channel');
 
-    // _handleNotification = async(notifications) => {
+        // // Create the channel
+        // const highChannel = new firebase.notifications.Android.Channel("highPowered", "Calling Notification Channel", firebase.notifications.Android.Importance.Max).
+        // .lockScreenVisibility(firebase.notifications.Android.Visibility.Public)
+        // .lightsEnabled(true)
+        // .sound("default")
+        // .vibrationEnabled(true)
 
-    //     // alert(JSON.stringify(notifications.data));
+        // let notificationObject = new firebase.notifications.Android.Channel("TripplePowered", "Testing Notification Power", firebase.notifications.Android.Importance.Max)
+        // .setLockScreenVisibility(firebase.notifications.Android.Visibility.Public)
+        // .enableLights(true)
+        // .enableVibration(true)
+        // .setBypassDnd(true)
+        // .setSound("incoming.wav")
 
-    //     let getOnlineStatus = await this.API._retrieveData("is_online");
+        // firebase.notifications().android.createChannel(notificationObject);
 
-    //     console.log(getOnlineStatus)
-    //     if (getOnlineStatus && getOnlineStatus === 'yes') {
-            
-    //         this.props.navigation.navigate("AcceptPatientRequestPush", { data: notifications.data});
-    //     }
-    // }
-    
+        /*
+        * Triggered when a particular notification has been received in foreground
+        * */
+        firebase.notifications().onNotification((notification) => {
+            // const { title, body } = notification;
+            // this.showAlert(title, body);
+            console.log(notification);
+            alert("Notification pops up!")
+        });
 
-    // exitAppOnbackButtonPressed = () => {
-    //     console.log('On home Route Back Button Pressed', this.backBtnPressCounter)
-    //     this.backBtnPressCounter += 1;
-    //     if (this.backBtnPressCounter === 2) {
-    //         BackHandler.exitApp();
-    //         this.backBtnPressCounter = 0;
-    //     } else {
-    //         return true;
-    //     }
+        /*
+        * If your app is in background, you can listen for when a notification is clicked / tapped / opened as follows:
+        * */
+        // firebase.notifications().onNotificationOpened((notificationOpen) => {
+        //     const { title, body } = notificationOpen.notification;
+        //     this.showAlert(title, body);
+        // });
 
-    // }
+        /*
+        * If your app is closed, you can check if it was opened by a notification being clicked / tapped / opened as follows:
+        * */
+        const notificationOpen = await firebase.notifications().getInitialNotification();
+        if (notificationOpen) {
+
+            // const { title, body } = notificationOpen.notification;
+            // this.showAlert(title, body);
+            alert("OnGetInitialNotification!")
+
+        }
+        /*
+        * Triggered for data only payload in foreground
+        * */
+        firebase.messaging().onMessage((message) => {
+            //process data message
+            console.log(`OnMessaging Recevied!`,JSON.stringify(message));
+
+            const notification = new firebase.notifications.Notification()
+            .setNotificationId(message._messageId)
+            .setTitle(message._data.title)
+            .setBody(message._data.body)
+            .setData({
+                key1: 'value1',
+                key2: 'value2',
+            });
+            notification.android.setChannelId("highPowered");
+
+            firebase.notifications().displayNotification(notification);
+        });
+    }
 
     render() {
 

@@ -1,5 +1,5 @@
 import React from 'react';
-import { View, TouchableHighlight, Text, StyleSheet, Image, Dimensions, TextInput, ScrollView, Alert, KeyboardAvoidingView } from 'react-native';
+import { View, TouchableHighlight, Text, StyleSheet, Image, Dimensions, TextInput, ScrollView, Alert, PermissionsAndroid } from 'react-native';
 import ImagePicker from 'react-native-image-picker';
 import { Dropdown } from 'react-native-material-dropdown';
 import MultiSelect from 'react-native-multiple-select';
@@ -131,6 +131,16 @@ export default class EditProfile extends React.Component {
             maxWidth: 400,
             maxHeight: 400
         };
+
+        // let askPermissionForCamera = await PermissionsAndroid.request(PermissionsAndroid.PERMISSIONS.CAMERA, {
+        //     title: "Permission for using our camera",
+        //     message: "If you allow then you'll get a lot of stuffs~!",
+        //     buttonNeutral: "Ask Me Later",
+        //     buttonNegative: "deny",
+        //     buttonPositive: "Allow!"
+        // })
+
+        // console.log("Camera PErmission Result", askPermissionForCamera);
 
         ImagePicker.launchImageLibrary(options, (response) => {
 
